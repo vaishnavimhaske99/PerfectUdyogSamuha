@@ -1,6 +1,6 @@
 # Perfect Udyog Samuha
 
-![Perfect Udyog Samuha Banner](images/banner.png)
+
 
 ## 📌 Project Overview
 
